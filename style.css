@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background-color: burlywood;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
@@ -36,7 +37,8 @@ body {
     padding: 5em 1.5em 1.5em;
 }
 .icon {
-    max-width: 10em;
+    max-width: 20em;
+    max-height: 20cm;
 }
 iframe {
     width: 50em;
